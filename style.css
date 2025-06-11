@@ -85,3 +85,7 @@ img{
     border: 1px solid #00aeff;
     box-shadow: 0 0 10px rgb(0,0,0,.15);
 }
+
+.img-container {
+    touch-action: auto; /* allows pinch zoom + scrolling */
+}
